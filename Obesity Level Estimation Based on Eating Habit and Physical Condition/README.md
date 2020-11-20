@@ -8,11 +8,17 @@ The obesity epidemic has become one of the most serious public health problems g
 This analysis is aimed to conduct a statistical analysis based on previous study data on obesity estimation, using proportional odds, multi-nominal and SVM model to access whether elements discussed in the study have a significant impact on predicting obesity levels, and whether the association between those behaviors or physical conditions and obesity differs by demographic groups. 
 
 ## Sections in Final Report
+
 **Data Pre-processing**
+
 **Exploratory Data Analysis**
+
 **Model Selection**
+
 **Model Accessment**
+
 **Evaluation**
+
 **Conclusion**
 
 
