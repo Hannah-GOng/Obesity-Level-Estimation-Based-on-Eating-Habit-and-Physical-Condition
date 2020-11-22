@@ -1,7 +1,0 @@
----
-title: "Fianl Report"
-author: "Hannah Gong"
-date: "10/15/2020"
-output: html_document
----
-
